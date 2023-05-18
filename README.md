@@ -4,8 +4,9 @@ I have used Volley Library to fetch news from news api in JSON form and presenti
 
 </br>
 </br>
-![screen shot]
-((https://github.com/Anshi10/NewsApp/assets/81226043/4db09185-4452-4aa7-a112-befc5ac2a864)
+![screenshot]
+![image](https://github.com/Anshi10/NewsApp/assets/81226043/4c5b5523-1416-49c1-8df8-a7767c423544)
+
 
 
 
